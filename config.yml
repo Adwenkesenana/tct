@@ -10,7 +10,7 @@ NODE_ENV: development
 
 # TIMEZONE: IANA timezone string used by schedulers and logs.
 # default: Africa/Nairobi
-TIMEZONE: Africa/Nairobi
+TIMEZONE: Africa/Accra
 
 
 # LOGGER SETTINGS
