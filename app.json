@@ -21,7 +21,7 @@
     },
     "TIMEZONE": {
       "description": "Your timezone",
-      "value": "Africa/Nairobi",
+      "value": "Africa/Accra",
       "required": false
     }
   },
